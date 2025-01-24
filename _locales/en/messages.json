@@ -1,0 +1,53 @@
+{
+  "extName": {
+    "message": "WebCapture Pro"
+  },
+  "extDescription": {
+    "message": "Capture web pages as high-quality images with one click. Support JPG, PNG, and SVG formats with full page capture capability."
+  },
+  "helpTitle": {
+    "message": "Help"
+  },
+  "feature1": {
+    "message": "Capture entire webpage with one click"
+  },
+  "feature2": {
+    "message": "Support lossless PNG format"
+  },
+  "feature3": {
+    "message": "Support vector SVG format"
+  },
+  "captureMode": {
+    "message": "Capture Mode"
+  },
+  "visibleArea": {
+    "message": "Visible Area"
+  },
+  "fullPage": {
+    "message": "Full Page"
+  },
+  "imageFormat": {
+    "message": "Image Format"
+  },
+  "pngFormat": {
+    "message": "PNG Format (Lossless)"
+  },
+  "jpgFormat": {
+    "message": "JPG Format (Compressed)"
+  },
+  "svgFormat": {
+    "message": "SVG Format (Vector)"
+  },
+  "saveAsImage": {
+    "message": "Save as Image"
+  },
+  "savingImage": {
+    "message": "Saving..."
+  },
+  "captureError": {
+    "message": "Failed to capture the webpage. Please try again."
+  },
+  "captureErrorTitle": {
+    "message": "Capture Failed"
+  }
+}
